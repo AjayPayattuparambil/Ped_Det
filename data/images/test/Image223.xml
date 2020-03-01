@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<asset>
+    <format>png</format>
+    <id>7b9bf710adfe143750603c6a4d4bed81</id>
+    <name>Image223.png</name>
+    <path>file:E:/PROJECT_DATA/REGISTERED_2019_2020/REG_NO_14_Pedestrian_Det_(12_11_19)/REF/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/Image223.png</path>
+    <size>
+        <width>596</width>
+        <height>336</height>
+    </size>
+    <state>2</state>
+    <type>1</type>
+</asset>
+<regions>
+    <id>mbuHTDM_S</id>
+    <type>RECTANGLE</type>
+    <tags>Unaware</tags>
+    <boundingBox>
+        <height>229.84832015810278</height>
+        <width>137.53846153846155</width>
+        <left>170.0958751393534</left>
+        <top>106.15167984189725</top>
+    </boundingBox>
+    <points>
+        <x>170.0958751393534</x>
+        <y>106.15167984189725</y>
+    </points>
+    <points>
+        <x>307.63433667781493</x>
+        <y>106.15167984189725</y>
+    </points>
+    <points>
+        <x>307.63433667781493</x>
+        <y>336</y>
+    </points>
+    <points>
+        <x>170.0958751393534</x>
+        <y>336</y>
+    </points>
+</regions>
+<version>2.1.0</version>
