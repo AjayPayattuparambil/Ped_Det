@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<asset>
+    <format>png</format>
+    <id>29f3d00cc0a5e8d6bef7e982e67592ef</id>
+    <name>Image133.png</name>
+    <path>file:E:/PROJECT_DATA/REGISTERED_2019_2020/REG_NO_14_Pedestrian_Det_(12_11_19)/REF/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/Image133.png</path>
+    <size>
+        <width>596</width>
+        <height>336</height>
+    </size>
+    <state>2</state>
+    <type>1</type>
+</asset>
+<regions>
+    <id>N7vCI-oWm</id>
+    <type>RECTANGLE</type>
+    <tags>Unaware</tags>
+    <boundingBox>
+        <height>231.74703557312256</height>
+        <width>91.6923076923077</width>
+        <left>231.88851727982163</left>
+        <top>76.9342885375494</top>
+    </boundingBox>
+    <points>
+        <x>231.88851727982163</x>
+        <y>76.9342885375494</y>
+    </points>
+    <points>
+        <x>323.58082497212934</x>
+        <y>76.9342885375494</y>
+    </points>
+    <points>
+        <x>323.58082497212934</x>
+        <y>308.68132411067194</y>
+    </points>
+    <points>
+        <x>231.88851727982163</x>
+        <y>308.68132411067194</y>
+    </points>
+</regions>
+<version>2.1.0</version>

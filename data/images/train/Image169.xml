@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<asset>
+    <format>png</format>
+    <id>508f2809e4bf976e38603e13a028b0f1</id>
+    <name>Image169.png</name>
+    <path>file:E:/PROJECT_DATA/REGISTERED_2019_2020/REG_NO_14_Pedestrian_Det_(12_11_19)/REF/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/Image169.png</path>
+    <size>
+        <width>596</width>
+        <height>336</height>
+    </size>
+    <state>2</state>
+    <type>1</type>
+</asset>
+<regions>
+    <id>qkIgvQfE6</id>
+    <type>RECTANGLE</type>
+    <tags>Unaware</tags>
+    <boundingBox>
+        <height>209.83399209486169</height>
+        <width>69.10144927536233</width>
+        <left>396.00445930880716</left>
+        <top>74.94219367588933</top>
+    </boundingBox>
+    <points>
+        <x>396.00445930880716</x>
+        <y>74.94219367588933</y>
+    </points>
+    <points>
+        <x>465.10590858416947</x>
+        <y>74.94219367588933</y>
+    </points>
+    <points>
+        <x>465.10590858416947</x>
+        <y>284.776185770751</y>
+    </points>
+    <points>
+        <x>396.00445930880716</x>
+        <y>284.776185770751</y>
+    </points>
+</regions>
+<version>2.1.0</version>

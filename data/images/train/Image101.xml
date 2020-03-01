@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<asset>
+    <format>png</format>
+    <id>460b317bb9b90e687a1c7f708a310f0a</id>
+    <name>Image101.png</name>
+    <path>file:E:/PROJECT_DATA/REGISTERED_2019_2020/REG_NO_14_Pedestrian_Det_(12_11_19)/REF/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/Image101.png</path>
+    <size>
+        <width>596</width>
+        <height>336</height>
+    </size>
+    <state>2</state>
+    <type>1</type>
+</asset>
+<regions>
+    <id>rzV-rntxb</id>
+    <type>RECTANGLE</type>
+    <tags>Unaware</tags>
+    <boundingBox>
+        <height>239.1447628458498</height>
+        <width>93.0211817168339</width>
+        <left>47.17502787068005</left>
+        <top>96.8552371541502</top>
+    </boundingBox>
+    <points>
+        <x>47.17502787068005</x>
+        <y>96.8552371541502</y>
+    </points>
+    <points>
+        <x>140.19620958751395</x>
+        <y>96.8552371541502</y>
+    </points>
+    <points>
+        <x>140.19620958751395</x>
+        <y>336</y>
+    </points>
+    <points>
+        <x>47.17502787068005</x>
+        <y>336</y>
+    </points>
+</regions>
+<version>2.1.0</version>

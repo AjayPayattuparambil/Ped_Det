@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<asset>
+    <format>png</format>
+    <id>5f305ddb5b562d7ca9976665261e7b38</id>
+    <name>Image99.png</name>
+    <path>file:E:/PROJECT_DATA/REGISTERED_2019_2020/REG_NO_14_Pedestrian_Det_(12_11_19)/REF/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/Image99.png</path>
+    <size>
+        <width>596</width>
+        <height>336</height>
+    </size>
+    <state>2</state>
+    <type>1</type>
+</asset>
+<regions>
+    <id>Mo_FBAmAL</id>
+    <type>RECTANGLE</type>
+    <tags>Unaware</tags>
+    <boundingBox>
+        <height>226.43478260869566</height>
+        <width>98.3366778149387</width>
+        <left>433.2129319955407</left>
+        <top>77.59832015810278</top>
+    </boundingBox>
+    <points>
+        <x>433.2129319955407</x>
+        <y>77.59832015810278</y>
+    </points>
+    <points>
+        <x>531.5496098104794</x>
+        <y>77.59832015810278</y>
+    </points>
+    <points>
+        <x>531.5496098104794</x>
+        <y>304.03310276679844</y>
+    </points>
+    <points>
+        <x>433.2129319955407</x>
+        <y>304.03310276679844</y>
+    </points>
+</regions>
+<version>2.1.0</version>

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<asset>
+    <format>png</format>
+    <id>3a37d08562e3911b1bd4e765f9cea224</id>
+    <name>Image183.png</name>
+    <path>file:E:/PROJECT_DATA/REGISTERED_2019_2020/REG_NO_14_Pedestrian_Det_(12_11_19)/REF/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/Image183.png</path>
+    <size>
+        <width>596</width>
+        <height>336</height>
+    </size>
+    <state>2</state>
+    <type>1</type>
+</asset>
+<regions>
+    <id>-MonqcrJt</id>
+    <type>RECTANGLE</type>
+    <tags>Unaware</tags>
+    <boundingBox>
+        <height>197.8814229249012</height>
+        <width>58.47045707915274</width>
+        <left>451.1527313266444</left>
+        <top>66.30978260869566</top>
+    </boundingBox>
+    <points>
+        <x>451.1527313266444</x>
+        <y>66.30978260869566</y>
+    </points>
+    <points>
+        <x>509.6231884057971</x>
+        <y>66.30978260869566</y>
+    </points>
+    <points>
+        <x>509.6231884057971</x>
+        <y>264.1912055335969</y>
+    </points>
+    <points>
+        <x>451.1527313266444</x>
+        <y>264.1912055335969</y>
+    </points>
+</regions>
+<regions>
+    <id>BL_VVDKlr</id>
+    <type>RECTANGLE</type>
+    <tags>Unaware</tags>
+    <boundingBox>
+        <height>203.95108695652175</height>
+        <width>73.08807134894091</width>
+        <left>0</left>
+        <top>132.04891304347828</top>
+    </boundingBox>
+    <points>
+        <x>0</x>
+        <y>132.04891304347828</y>
+    </points>
+    <points>
+        <x>73.08807134894091</x>
+        <y>132.04891304347828</y>
+    </points>
+    <points>
+        <x>73.08807134894091</x>
+        <y>336</y>
+    </points>
+    <points>
+        <x>0</x>
+        <y>336</y>
+    </points>
+</regions>
+<version>2.1.0</version>

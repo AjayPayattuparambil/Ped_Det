@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<asset>
+    <format>png</format>
+    <id>40bcb2837ff6ebad384e1f55b5255302</id>
+    <name>Image25.png</name>
+    <path>file:E:/PROJECT_DATA/REGISTERED_2019_2020/REG_NO_14_Pedestrian_Det_(12_11_19)/REF/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/Image25.png</path>
+    <size>
+        <width>596</width>
+        <height>336</height>
+    </size>
+    <state>2</state>
+    <type>1</type>
+</asset>
+<regions>
+    <id>XFonY1YhU</id>
+    <type>RECTANGLE</type>
+    <tags>Unaware</tags>
+    <boundingBox>
+        <height>225.86413043478262</height>
+        <width>87.7056856187291</width>
+        <left>71.75919732441471</left>
+        <top>110.1358695652174</top>
+    </boundingBox>
+    <points>
+        <x>71.75919732441471</x>
+        <y>110.1358695652174</y>
+    </points>
+    <points>
+        <x>159.46488294314383</x>
+        <y>110.1358695652174</y>
+    </points>
+    <points>
+        <x>159.46488294314383</x>
+        <y>336</y>
+    </points>
+    <points>
+        <x>71.75919732441471</x>
+        <y>336</y>
+    </points>
+</regions>
+<version>2.1.0</version>
